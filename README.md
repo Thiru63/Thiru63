@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 https://www.linkedin.com/in/thirumalai-web-developer/
+https://thiru63.github.io/
 
 <!--
 **Thiru63/Thiru63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
