@@ -31,8 +31,10 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
  <hr>
 
- ## 🏆 Trophies :
-<br/>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+My trophies ....
+ 
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thiru63&theme=onedark" alt="Thiru63" /></a> </p>
 
  <hr>
@@ -81,6 +83,9 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
+ <p align="center">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Contributions:</b></i> 
+</p>
 <p align="center">
 <a href="https://github.com/Thiru63"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thiru63&theme=dracula" />
@@ -126,6 +131,8 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <hr />
     <h2><a href="https://thiru63.github.io/">🌍 | Portfolio </a></h2>
+
+    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
   
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
