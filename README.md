@@ -104,6 +104,11 @@ My trophies ....
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/%7BThiru63%7D/count.svg" alt="Thiru63 :: Visitor's Count" /></p>
+<!--
+ <a href="https://github.com/Imesunny?tab=followers">
+        <img src="https://img.shields.io/github/followers/Thiru63?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+-->
 
 <hr>
 
