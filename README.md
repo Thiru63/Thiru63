@@ -137,7 +137,7 @@ My trophies ....
     <h2><a href="https://thiru63.github.io/">🌍 | Thiru's Portfolio </a></h2>
 
 
-    <hr/>
+    <hr>
 
     
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
