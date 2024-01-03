@@ -134,12 +134,12 @@ My trophies ....
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My portfolio .... 
 
 
-  <a href="https://www.linkedin.com/in/thirumalai-web-developer/">
-    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
+  <a href="https://thiru63.github.io/">
+    🌍 | Thiru's Portfolio
   </a>
    
   
-    <a href="https://thiru63.github.io/">🌍 | Thiru's Portfolio </a>
+
 
 
   <hr>
