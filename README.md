@@ -134,9 +134,9 @@ My trophies ....
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My portfolio .... 
 
 
-  <h2><a href="https://thiru63.github.io/" >
+  <h3><a href="https://thiru63.github.io/" >
     🌍 | Thiru's Portfolio
-  </a><h2/>
+  </a><h3/>
    
   
 
